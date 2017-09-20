@@ -64,5 +64,6 @@
     <string name="qs_menu_item_reset">Zurücksetzen</string>
     <string name="qs_menu_item_qs_columns">Spalten der Schnellleiste</string>
     <string name="qs_menu_item_columns_auto">Automatisch</string>
+    <string name="qs_menu_item_titles">Beschriftungen anzeigen</string>
 
 </resources>
