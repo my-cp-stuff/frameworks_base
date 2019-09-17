@@ -98,5 +98,6 @@ public class SystemSettings {
         Settings.System.QS_SHOW_AUTO_BRIGHTNESS,
         Settings.System.TORCH_LONG_PRESS_POWER_GESTURE,
         Settings.System.TORCH_LONG_PRESS_POWER_TIMEOUT,
+        Settings.System.COLOR_BUCKET_OVERLAY
     };
 }
