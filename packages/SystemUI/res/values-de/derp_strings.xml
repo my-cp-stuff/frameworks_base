@@ -54,6 +54,8 @@
     <!-- QS Config -->
     <string name="qs_menu_item_columns">Spalten</string>
     <string name="qs_menu_item_columns_landscape">Spalten (Querformat)</string>
+    <string name="qs_menu_item_qs_rows">Max. Zeilen</string>
+    <string name="qs_menu_item_columns_two">2</string>
     <string name="qs_menu_item_columns_three">3</string>
     <string name="qs_menu_item_columns_four">4</string>
     <string name="qs_menu_item_columns_five">5</string>
